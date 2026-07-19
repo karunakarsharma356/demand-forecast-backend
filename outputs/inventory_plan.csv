@@ -1,0 +1,16 @@
+category,avg_daily_demand,demand_std,lead_time_days,service_level,safety_stock,reorder_point,economic_order_quantity,annual_demand_estimate
+Cleats,73.3,16.7,7,0.95,72.9,586.0,1156.6,26752.0
+Women's Apparel,62.6,16.0,7,0.95,69.8,507.9,1068.7,22842.0
+Indoor/Outdoor Games,57.5,14.8,7,0.95,64.7,466.9,1024.0,20972.0
+Cardio Equipment,37.4,12.2,7,0.95,53.5,315.0,825.8,13637.0
+Shop By Sport,32.5,10.9,7,0.95,47.7,275.4,770.5,11874.0
+Men's Footwear,22.1,4.9,7,0.95,21.2,176.0,635.3,8071.0
+Fishing,17.2,4.3,7,0.95,18.6,139.2,560.6,6286.0
+Water Sports,15.4,4.1,7,0.95,17.9,126.0,531.0,5638.0
+Camping & Hiking,13.6,3.7,7,0.95,16.3,111.8,499.1,4981.0
+Electronics,11.6,6.3,7,0.95,27.5,108.4,459.4,4221.0
+Accessories,7.2,4.4,7,0.95,19.4,69.7,362.2,2624.0
+Golf Balls,6.2,3.9,7,0.95,17.2,60.9,337.4,2276.0
+Girls' Apparel,5.7,3.7,7,0.95,16.0,55.8,322.1,2075.0
+Golf Gloves,4.5,3.2,7,0.95,14.1,45.6,286.6,1642.0
+Trade-In,4.7,3.1,7,0.95,13.6,46.2,291.5,1700.0
